@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Chapter17_LifeCycle</string>
+    <string name="hello">Demo LifeCycleActivity</string>
+</resources>
